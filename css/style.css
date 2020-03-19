@@ -1,0 +1,81 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #edeef0;
+}
+
+
+.header {
+}
+
+
+.container {
+    max-width: 960px;
+    min-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+
+.user {
+}
+
+
+.user-avatar {
+    border-radius: 50px;
+    display: inline-block;
+}
+
+
+.fullname {
+    display: inline-block;
+    font-weight: normal;
+    position: absolute;
+    left: 120px;
+    top: 0;
+    width: 225px;
+}
+
+
+.count-friends {
+    display: inline-block;
+    position: absolute;
+    left: 120px;
+    top: 50px;
+}
+
+
+.btn-logout {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+button {
+    height: 25px;
+}
+
+
+.search {
+    margin-top: 30px;
+}
+
+.friends {
+    margin-top: 20px;
+    border-spacing: 0;
+}
+
+
+.friend-name {
+    padding-left: 5px;
+
+}
+
+
+.friend-avatar {
+    border-radius: 25px;
+}
+
+
